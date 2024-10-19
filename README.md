@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **MERN Stack Development and Artificial Intelligence And Cloud Computing**
+- 🌱 I’m currently learning **MERN Stack Development and Artificial Intelligence , Cloud Computing**
 
 - 💬 Ask me about **MERN , Frontend Development**
 
