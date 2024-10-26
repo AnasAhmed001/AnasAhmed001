@@ -1,6 +1,6 @@
 ![logo](https://github.com/AnasAhmed001/AnasAhmed001/blob/main/banner%20image.gif)
 <h1 align="center">Hi 👋, I'm Anas Ahmed</h1>
-<h3 align="center">A passionate MERN stack developer from Pakistan</h3>
+<h3 align="center">A passionate Frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif">
 
 - 🔭 I’m currently working on **React Native**
