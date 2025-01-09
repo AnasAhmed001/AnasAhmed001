@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **Mongo db**
 
 - 🌱 I’m currently learning **MERN Stack Development and Artificial Intelligence , Cloud Computing**
 
-- 💬 Ask me about **MERN , Frontend Development**
+- 💬 Ask me about **MERN stack , Frontend Development**
 
 - 📫 How to reach me **hafizanasahmed8@gmail.com**
 
