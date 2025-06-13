@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Artificial Intelligence, Genarative AI and Cloud Computing from GIAIC**
 
-- 💬 Ask me about **MERN stack , Frontend Development**
+- 💬 Ask me about **MERN stack , Frontend Development, Python**
 
 - 📫 How to reach me **hafizanasahmed8@gmail.com**
 
