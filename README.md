@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **MERN Stack Development, Artificial Intelligence And Cloud Computing**
+- 🌱 I’m currently learning **MERN Stack Development, Agentic AI, Open AI Agents SDK**
 
 - 👨‍💻 All of my projects are available at [https://anas-ahmed.vercel.app/](https://anas-ahmed.vercel.app/)
 
