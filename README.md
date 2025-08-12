@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/anasxahmed01" target="blank"><img src="https://img.shields.io/twitter/follow/anasxahmed01?logo=twitter&style=for-the-badge" alt="anasxahmed01" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python, AWS**
 
-- 🌱 I’m currently learning **MERN Stack Development, Agentic AI, Open AI Agents SDK**
+- 🌱 I’m currently learning **MERN Stack Development, Agentic AI, Open AI Agents SDK, AWS**
 
 - 👨‍💻 All of my projects are available at [https://anas-ahmed.vercel.app/](https://anas-ahmed.vercel.app/)
 
