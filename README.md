@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Ahmed</h1>
-<h3 align="center">A passionate MERN stack developer from Pakistan</h3>
+<h3 align="center">Full stack developer from Pakistan</h3>
 
 <p align="left"> <a href="https://twitter.com/anasxahmed01" target="blank"><img src="https://img.shields.io/twitter/follow/anasxahmed01?logo=twitter&style=for-the-badge" alt="anasxahmed01" /></a> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **MERN Stack Development, Agentic AI, Open AI Agents SDK, AWS**
 
-- 👨‍💻 All of my projects are available at [https://anas-ahmed.vercel.app/](https://anas-ahmed.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://anasahmed.me](https://anasahmed.me)
 
-- 💬 Ask me about **MERN , Frontend Development, Python**
+- 💬 Ask me about **MERN , Agnetic-AI, Python**
 
 - 📫 How to reach me **hafizanasahmed8@gmail.com**
 
