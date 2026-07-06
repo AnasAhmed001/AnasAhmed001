@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/anasxahmed01" target="blank"><img src="https://img.shields.io/twitter/follow/anasxahmed01?logo=twitter&style=for-the-badge" alt="anasxahmed01" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development, Agentic AI, Open AI Agents SDK, AWS**
+- 🌱 I’m currently learning **MERN Stack Development, Python, FastAPI, Agentic AI, Docker,**
 
 - 👨‍💻 All of my projects are available at [https://anasahmed.me](https://anasahmed.me)
 
