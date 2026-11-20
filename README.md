@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/anasxahmed01" target="blank"><img src="https://img.shields.io/twitter/follow/anasxahmed01?logo=twitter&style=for-the-badge" alt="anasxahmed01" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development, Python, FastAPI, Agentic AI, Docker,**
+- 🌱 I’m currently learning **System Design**
 
 - 👨‍💻 All of my projects are available at [https://anas-ahmed.vercel.app]([https://anasahmed.me](https://anas-ahmed.vercel.app/))
-
-- 💬 Ask me about **MERN , Agnetic-AI, Python**
 
 - 📫 How to reach me **hafizanasahmed8@gmail.com**
 
