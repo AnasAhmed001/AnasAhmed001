@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Anas Ahmed</h1>
-<h3 align="center">Full stack developer from Pakistan</h3>
+<h3 align="center">Full stack developer and Agentic AI Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/anasxahmed01" target="blank"><img src="https://img.shields.io/twitter/follow/anasxahmed01?logo=twitter&style=for-the-badge" alt="anasxahmed01" /></a> </p>
 
