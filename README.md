@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development, Python, FastAPI, Agentic AI, Docker,**
 
-- 👨‍💻 All of my projects are available at [https://anasahmed.me]([https://anasahmed.me](https://anas-ahmed.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://anas-ahmed.vercel.app]([https://anasahmed.me](https://anas-ahmed.vercel.app/))
 
 - 💬 Ask me about **MERN , Agnetic-AI, Python**
 
